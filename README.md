@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Year 2 at **Singapore University of Technology and Design (SUTD)**, BE in Computer Science & Design
+- 🎓 Year 3 at **Singapore University of Technology and Design (SUTD)**, BE in Computer Science & Design
 - 🤖 Love building AI-powered tools — RAG pipelines, LLM agents, and vector stores are my playground
 - 📱 Android dev with a soft spot for creative UX (infinite scroll + AI chatbots? yes please)
 - 🏆 Hackathon placer · UROP grant recipient · VP @ SENTRE
