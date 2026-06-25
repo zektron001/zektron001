@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Year 3 at **Singapore University of Technology and Design (SUTD)**, BE in Computer Science & Design
+- 🎓 Year 2 at **Singapore University of Technology and Design (SUTD)**, BE in Computer Science & Design
 - 🤖 Love building AI-powered tools — RAG pipelines, LLM agents, and vector stores are my playground
 - 📱 Android dev with a soft spot for creative UX (infinite scroll + AI chatbots? yes please)
 - 🏆 Hackathon placer · UROP grant recipient · VP @ SENTRE
@@ -64,6 +64,8 @@ Trained and compared **Ridge Regression** and **Random Forest** models with Grid
 ### ✈️ AI Travel Planner
 > *Python · FastAPI · LangChain · FAISS · GPT-4o*
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://ai-travel-planner-production-3ea3.up.railway.app/)
+
 A LangChain GPT-4o agent that orchestrates **5 function-calling tools** to generate 2-day itineraries. Features a multi-hop RAG search chain with 3 sequential Tavily queries, a dual-memory system (per-session conversation history + FAISS vector store), and a vanilla-JS multi-session chat frontend deployed on Railway.
 
 ---
@@ -86,6 +88,8 @@ TikTok-style Android recipe discovery app with infinite-scroll video feed, a cus
 
 ### 🎵 FAMES
 > *JavaScript · HTML/CSS · Web Audio API · Service Worker*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://famescom.vercel.app/)
 
 An offline-capable **Progressive Web App** with XP system, achievements, and weekly quests.
 
@@ -112,7 +116,7 @@ An offline-capable **Progressive Web App** with XP system, achievements, and wee
 
 ## 👥 Leadership
 
-**Vice President UNI Department — SENTRE** *(Nov 2025 – Present)*
+**Vice President University Department — SENTRE** *(Nov 2025 – Present)*
 Leading university outreach for a community of 5,000+ Indonesian students aspiring to study in Singapore.
 
 **Project Director — Padi Gathering** *(Jun – Sep 2025)*
