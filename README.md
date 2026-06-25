@@ -120,10 +120,10 @@ An offline-capable **Progressive Web App** with XP system, achievements, and wee
 Leading university outreach for a community of 5,000+ Indonesian students aspiring to study in Singapore.
 
 **Project Director — Padi Gathering** *(Jun – Sep 2025)*
-Directed a 7-person team across event planning and risk assessment; managed logistics for 70 participants with zero disruptions on event day.
+Directed a 7-person team across event planning and risk assessment; managed logistics for 70++ participants with zero disruptions on event day.
 
 ---
 
 <p align="center">
-  <i>Open to internship opportunities in AI/ML, full-stack, or mobile development — feel free to reach out!</i>
+  <i>Open to internship opportunities in AI/ML and full-stack— feel free to reach out!</i>
 </p>
