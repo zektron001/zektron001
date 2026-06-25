@@ -112,7 +112,7 @@ An offline-capable **Progressive Web App** with XP system, achievements, and wee
 
 ## 👥 Leadership
 
-**VP, UNI Department — SENTRE** *(Nov 2025 – Present)*
+**Vice President UNI Department — SENTRE** *(Nov 2025 – Present)*
 Leading university outreach for a community of 5,000+ Indonesian students aspiring to study in Singapore.
 
 **Project Director — Padi Gathering** *(Jun – Sep 2025)*
