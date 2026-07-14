@@ -64,7 +64,7 @@ Trained and compared **Ridge Regression** and **Random Forest** models with Grid
 ### ✈️ AI Travel Planner
 > *Python · FastAPI · LangChain · FAISS · GPT-4o*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://ai-travel-planner-production-3ea3.up.railway.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://travel-plann.up.railway.app/)
 
 A LangChain GPT-4o agent that orchestrates **5 function-calling tools** to generate 2-day itineraries. Features a multi-hop RAG search chain with 3 sequential Tavily queries, a dual-memory system (per-session conversation history + FAISS vector store), and a vanilla-JS multi-session chat frontend deployed on Railway.
 
